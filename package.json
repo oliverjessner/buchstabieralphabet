@@ -1,0 +1,15 @@
+{
+  "name": "buchstabieralphabet",
+  "version": "0.0.1",
+  "description": "A thing we call \"buchstabieralphabet\" in german",
+  "main": "index.js",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oliver Jessner",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.14.1"
+  }
+}
