@@ -1,3 +1,5 @@
+Moved to: https://gitlab.com/oliverjessner/buchstabieralphabet
+
 # buchstabieralphabet
 Because I have to spell my company name all the time.
 This things is also called buchstabiertafel in some parts of germany.
